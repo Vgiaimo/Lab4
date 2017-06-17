@@ -1,1 +1,82 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;	
+	text-align: center;
+	font-size: 150%;
+	font-weight:bold;
+	min-height:100%;
+	background-image: url("images/Space.jpg");
+	background-size: cover;
+	color: white;
+	opacity: .2%;
+}
 
+
+table 
+{
+  table-layout: fixed;
+  width: 75%;
+  border-collapse: collapse;
+  border: .18em solid blue;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+th, td 
+{	
+  padding: .5em;
+  letter-spacing: 0em;
+  text-align: center;
+  border-bottom: .1em solid blue;
+  border: .1em solid blue;
+}
+
+
+.image
+{
+  position: relative;
+  float: none;
+  width:  7em;
+  height: 7em;
+}
+
+.C1:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C2:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C3:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C4:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C5:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C6:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.C7:hover 
+{
+  background-color: blue;
+  opacity: 0.8;
+}
